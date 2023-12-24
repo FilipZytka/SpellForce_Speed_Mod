@@ -1,6 +1,6 @@
 # SpellForce Speed Trainer
 Simple WinForms based application for manipulating game speed.
-The application automatically detects spellforce.exe process and modifies the game memory when using hotkeys or buttons on the app gui.
+The application automatically detects spellforce.exe process and allows the player to change between 5 different game speed states by using keyhooks or user interface. 
 
 Hotkeys:
 
